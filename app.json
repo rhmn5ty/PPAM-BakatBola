@@ -32,6 +32,12 @@
         "projectId": "ff808f51-795c-4f1c-8cb2-43ff1b7067d9"
       }
     },
-    "owner": "rahman_satya"
+    "owner": "rahman_satya",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ff808f51-795c-4f1c-8cb2-43ff1b7067d9"
+    }
   }
 }
