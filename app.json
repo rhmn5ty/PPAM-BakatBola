@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "bakatbola",
+    "slug": "bakatbola",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-bakatbola.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-bakatbola.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon-bakatbola.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rahman_satya.bakatbola"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ff808f51-795c-4f1c-8cb2-43ff1b7067d9"
+      }
+    },
+    "owner": "rahman_satya"
+  }
+}
